@@ -1,0 +1,12 @@
+{
+  "name": "@webfaaslabs/simulateerror",
+  "version": "0.0.1",
+  "description": "simulate error",
+  "category": "labs",
+  "main": "src/lib",
+  "scripts": {
+    "test": "node src/test/simulate"
+  },
+  "author": "",
+  "license": "ISC"
+}
